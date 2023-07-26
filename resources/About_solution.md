@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ## **What is a movie recommender system?**  
+=======
+# **What is a movie recommender system?**  
+>>>>>>> Stashed changes
 
 The sole purpose of a recommender system is to suggest users something based on their interest or usage history, in this case movies. It employs a statistical algorithm that seeks to predict users' ratings for certain movies, based on the similarity between the movies or similarity between the users that previously rated those movies. The intuition is that similar types of users are likely to have similar ratings for a set of movies.
 

@@ -1,0 +1,108 @@
+# Terms of use
+# Hello and thanks for using Streamlit!
+Please read below for the terms that cover the usage of the Streamlit website, the Streamlit community forum, and Components submitted by the Streamlit community.
+
+The Streamlit library is open sourced under the Apache 2.0 license. You can find instructions to download the Streamlit software in the documentation and find its software license on the streamlit github page
+
+The Streamlit Cloud platform has its own terms of service. You can sign up for the platform here and find the software terms for Streamlit Cloud here.
+
+# Terms of use for the Streamlit website and support services
+Please read these Terms of Use (the “Terms”) carefully because they are a legal agreement that governs the website of Streamlit, Inc. (“Streamlit”) located at http://streamlit.io (the “Site”), the community support forum offered through the Site and the User Components (collectively, the “Support Services”).
+
+By using the Support Services, which may include accessing and using User Components in connection with Streamlit, you agree to be bound by these Terms and the Privacy Policy referenced in Section 1 below. If you don’t agree to be bound by these Terms and the Privacy Policy, do not use the Support Services.
+
+# 1. Privacy policy
+Please refer to our Privacy Policy at http://streamlit.io/privacy-policy for information on how we collect and disclose information from our users, what data we store, and how we use that data. You agree that your use of Streamlit and the Support Services is subject to our Privacy Policy.
+
+# 2. Changes to terms
+We may update these Terms at any time, in our sole discretion. If we do so, we’ll let you know either by posting the updated Terms on the Site or through other communications. It’s important that you review the Terms whenever we update them or you use the Site. If you continue to use the Site after we have posted updated Terms, you are agreeing to be bound by the updated Terms. If you don’t agree to be bound by the updated Terms, then you may not use the Support Services anymore.
+
+# 3. License to Use the support services
+Provided that you are 18 years or older and capable of forming a binding contract with Streamlit and are not barred from using the Support Services under applicable law, and conditioned upon your compliance with these Terms, Streamlit grants you a limited, non-exclusive, non-transferable, non-sublicensable license to use the Support Services. Use of the community support forum offered through the Site requires that you create an account on the Site (“Account”). It’s important that you provide us with accurate, complete and up-to-date information for your Account. You agree to update such information to keep it accurate, complete and up-to-date. If you don’t, we might have to suspend or terminate your Account. You agree that you won’t disclose your Account password to anyone and you’ll notify us immediately of any unauthorized use of your Account. You’re responsible for all activities that occur under your Account, whether or not you know about them.
+
+# 4. Feedback
+We welcome feedback, comments and suggestions for improvements to the Support Services and the Software (“Feedback”). You can submit Feedback by posting on our community forum at https://discuss.streamlit.io, submitting feedback on GitHub at https://github.com/streamlit, or by emailing us at product@streamlit.io. You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise use the Feedback for any purpose.
+
+# 5. User content and usage data
+## 5.1. User content
+“User Content” means any text, graphics, images, software, works of authorship, and information or other materials that you provide to be made available through the Support Services, but excludes Submitted Components. For example, a screenshot of an app you made that you posted onto the Streamlit forum. Streamlit does not claim any ownership rights in any User Content and nothing in these Terms will restrict any rights that you may have to use and exploit your User Content. By making any User Content available through the Support Services you grant to us a non-exclusive, transferable, worldwide, royalty-free license, with the right to sublicense, to use, copy, modify, create derivative works based upon, distribute, publicly display, and publicly perform your User Content in connection with operating and providing the Support Services. Submitted Components are governed by the Components Addendum.
+
+## 5.2. Your responsibility for user content
+You are solely responsible for all your User Content. You represent and warrant that you own all your User Content or you have all rights that are necessary to grant us the license rights in your User Content under these Terms, and that neither your User Content, nor your use and provision of your User Content to be made available through the Support Services, nor any use of your User Content by Streamlit on or through the Support Services will infringe, misappropriate or violate a third party’s intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
+
+## 5.3. Removal of user content
+You can remove your User Content by specifically deleting it. However, in certain instances, some of your User Content (such as posts or comments you make on the community support forum) may not be completely removed and copies of your User Content may continue to exist on the Support Services. We are not responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your User Content.
+
+## 6. User components
+The Streamlit software (the “Software”) enables you to engage and use third-party code, components, widgets and tools (collectively, “User Components”) when using the Software. These User Components allow you to write your own JavaScript and HTML components that can be rendered in Streamlit apps, receive data from apps, and send data to Streamlit Python scripts. You may create User Components for your own use, or choose to share them with the Streamlit Community. These terms apply to User Components that have been shared within the Streamlit Community via the Support Services.
+You acknowledge and agree that regardless of how User Components may be offered to you, Streamlit is only acting as an intermediary between you and the third party (which may include other users of the Software) offering such User Components. Streamlit does not, in any way, endorse any User Components and shall not be in any way responsible or liable with respect to any such User Components. Your relationship with the User Components and any terms governing your use of User Components is subject to a separate agreement between you and the provider of a User Components (“Third Party Agreements”). Streamlit is not party to, or responsible, in any manner, for your or the provider of the User Component’s compliance with Third Party Agreements.
+If you choose to share your User Component with Streamlit or to upload any User Component to the Support Services (a “Submitted Component”) you agree to the terms and conditions of the Submitted Component Addendum, the terms of which are hereby incorporated by reference.
+Streamlit and the providers of each User Components reserve the right to discontinue the use or suspend the availability of any User Component, for any reason and with no obligation to provide any explanation or notice. Such discontinuation may result in the inability to use certain features and actions of a User Component along with the Software.
+# 7. General prohibitions and our enforcement rights
+In connection with your use of the Support Services, you agree not to do any of the following:
+
+Post, upload, publish, submit or transmit any User Content or other materials that: (i) infringe, misappropriate or violate a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violate, or encourage any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) are fraudulent, false, misleading or deceptive; (iv) are defamatory, obscene, pornographic, vulgar or offensive; (v) promote discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) are violent or threatening or promote violence or actions that are threatening to any person or entity; or (vii) promote illegal or harmful activities or substances;
+Access, tamper with, or use non-public areas of the Support Services, Streamlit’s computer systems, or the technical delivery systems of Streamlit’s providers;
+Attempt to probe, scan or test the vulnerability of the Support Services, any system or network of Streamlit or its providers, or breach any security or authentication measures of Streamlit or its providers;
+Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Streamlit or any of Streamlit’s providers or any other third party (including another user) to protect the Support Services, or the system or network of Streamlit or its providers;
+Attempt to access or search the Support Services or download materials from the Support Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Streamlit or other generally available third-party web browsers;
+Interfere with, or attempt to interfere with, the access of any user, host or network, including, but not limited to, sending a virus, overloading, flooding, spamming, or mail-bombing the Support Services or the system or network of any Streamlit provider;
+Use the Support Services or any of its component features for competitive analysis or benchmarking, or to otherwise develop, sell, license, commercialize or contribute to the development or commercialization of any product or service that could, directly or indirectly, compete with the Support Services or any other product or service of Streamlit;
+Impersonate or misrepresent your affiliation with any person or entity;
+Violate any applicable law or regulation; or
+Encourage or enable any other individual to do any of the foregoing.
+Although we’re not obligated to monitor access to or use of the Support Services or to review or edit any User Content, we have the right to do so for the purpose of operating or protecting the Support Services, to ensure compliance with these Terms and to comply with applicable law or other legal requirements. We reserve the right, but are not obligated, to remove or disable access to any User Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider any Content to be objectionable or in violation of these Terms. We have the right to investigate violations of these Terms or conduct that affects the Support Services. We may also consult and cooperate with law enforcement authorities to prosecute users who violate the law.
+
+# 8. DMCA/copyright policy
+We respect copyright law and the intellectual property rights of others, and we expect our users to do the same. It is our policy to terminate in appropriate circumstances Account holders who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders. Please see Streamlit’s Copyright and IP Policy at https://streamlit.io/copyright-policy, for further information.
+
+# 9. Links to third party websites or resources
+The Support Services may contain links to third-party websites or resources. We provide these links only as a convenience and are not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites. You acknowledge sole responsibility for and assume all risk arising from your use of any third-party websites or resources.
+
+# 10. Termination
+We may terminate or suspend your access to and use of the Support Services if you violate these Terms, if necessary for us to conduct maintenance on or implement updates to the Support Services, or if we discontinue the existing version of the Support Services, at any time and without notice to you. You may cancel your Account at any time by sending an email to us at legal@streamlit.io. Upon any termination, discontinuation or cancellation of the Support Services or your Account, the following Sections will survive: [6.1-6.3, 6.4] (last sentence), and [11-14].
+
+# 11. Warranty disclaimers
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER STREAMLIT NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SUPPORT SERVICES WILL BE LIABLE FOR DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOST BUSINESS OPPORTUNITY, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SUPPORT SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT STREAMLIT OR ANY OTHER PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. THE PARTIES HAVE AGREED THAT THESE LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THESE TERMS IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+# 12. Disclaimers with respect to user components
+WITHOUT LIMITING SECTION 11, THE USER COMPONENTS MADE AVAILABLE BY STREAMLIT ARE PROVIDED ON AN “AS-IS”, “WITH ALL FAULTS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND. WITHOUT LIMITING SECTION 11, WE HEREBY DISCLAIM ANY AND ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FUNCTIONALITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WHETHER EXPRESS, IMPLIED OR STATUTORY.
+
+# 13. Limitation of liability
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER STREAMLIT NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SUPPORT SERVICES WILL BE LIABLE FOR DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOST BUSINESS OPPORTUNITY, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR FROM THE USE OF OR INABILITY TO USE THE SUPPORT SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT STREAMLIT OR ANY OTHER PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. WITHOUT LIMITING THE FOREGOING, STREAMLIT HAS NO RESPONSIBILITY OR LIABILITY FOR USER COMPONENTS OR FOR ANY ACTS OR OMISSIONS BY THIRD PARTIES, INCLUDING WITHOUT LIMITATION, THE OPERABILITY OR INTEROPERABILITY OF SUCH USER COMPONENTS WITH THE SOFTWARE, OR THE SECURITY, ACCURACY, RELIABILITY, DATA PROTECTION AND PROCESSING PRACTICES OF THE PROVIDERS OF ANY USER COMPONENTS. BY ACCESSING OR USING USER COMPONENTS IN CONNECTION WITH THE SOFTWARE, YOU ACKNOWLEDGE THAT YOUR ACCESS AND USE OF USER COMPONENTS ARE AT YOUR SOLE DISCRETION AND RISK. YOU ARE SOLELY RESPONSIBLE FOR VERIFYING THE OPERATION AND PRACTICES OF THE PROVIDER OF USER COMPONENTS AND ITS RESPECTIVE THIRD PARTY AGREEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. THE PARTIES HAVE AGREED THAT THESE LIMITATIONS WILL SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THESE TERMS IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+# 14. General terms
+## 14.1. Entire agreement
+These Terms, including the Privacy Policy, constitute the entire and exclusive understanding and agreement between Streamlit and you regarding the Support Services, and these Terms supersede and replace any and all prior oral or written understandings or agreements between Streamlit and you regarding the same. If any provision of these Terms is held invalid or unenforceable by a court of competent jurisdiction, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms will remain in full force and effect. You may not assign or transfer these Terms, by operation of law or otherwise, without Streamlit’s prior written consent. Any attempt by you to assign or transfer these Terms, without such consent, will be void. Streamlit may freely assign or transfer these Terms without restriction. Subject to the foregoing, these Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
+
+## 14.2. Notices
+Any notices or other communications provided by Streamlit under these Terms, including those regarding modifications to these Terms, will be given: (i) via email; or (ii) by posting to the Support Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
+
+## 14.3. Waiver of rights
+Streamlit’s failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Streamlit. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
+
+# 15. Contact information
+If you have any questions about these Terms or the Support Services, please contact Streamlit at legal@streamlit.io
+
+# Addendum: Components
+Hello and thanks for making a custom component for Streamlit! Your contributions greatly extend what we can all do with Streamlit, and we really appreciate your contribution and general support of Streamlit.
+
+Please read this addendum for the terms that govern your submission, or otherwise making available, of User Components created by you to us.
+
+By submitting User Components to Streamlit through the Support Services, you agree to be bound by the terms of this addendum. If you don’t agree to be bound by the terms of this addendum, please do not submit or send any User Components to us.
+
+If you have any questions about these Terms or the Support Services, please contact Streamlit at legal@streamlit.io
+
+# A. Streamlit terms of use
+This addendum hereby incorporates by reference the Streamlit Terms of Use listed above.
+
+# B. Submitted components
+1. A “Submitted Component” is defined in the Streamlit Terms of Use, and means any User Component that is uploaded to the Support Services or otherwise made available to Streamlit.
+
+2. As between you and Streamlit, you will be the owner of all intellectual property rights in and to User Components created by you. Without limiting the foregoing, with respect to all Submitted Components you submit to Streamlit, you hereby grant, and agree to grant, to Streamlit a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, to use, copy, modify, distribute, publicly display, publicly perform and otherwise use such Submitted Component in connection with the provision of Streamlit’s products and services. You hereby agree to perform such further acts and execute such further documents as requested by Streamlit to carry out the intent of this provision.
+
+3. By providing any Submitted Component to Streamlit or uploading any Submitted Component to the Support Services, you represent and warrant to us that you have sufficient rights in any such Submitted Component to grant Streamlit the licenses described hereunder. You further represent and warrant your submission of that Submitted Component, and your granting of rights in such Submitted Component hereunder will infringe, misappropriate or violate a third party’s intellectual property rights, or result in the violation of any applicable contract, law or regulation.
+
+4. In some cases, Submitted Components may be considered for incorporation by us into the Software. You understand and agree that we are not obligated to use, distribute or continue to distribute any Submitted Component submitted by you and we reserve the right, but not the obligation, to restrict or remove Submitted Components for any reason.
+
+5. Both you and Streamlit reserves the right to discontinue the use or suspend the availability of any User Component, for any reason and with no obligation to provide any explanation or notice. Such discontinuation may result in the inability to use certain features and actions of a User Component along with the Software.
